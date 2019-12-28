@@ -2973,7 +2973,7 @@ $j(document).ready(function() {
     return a(), l
    }
   })
- };
+ }
 var is_OSX = navigator.platform.match(/(Mac|iPhone|iPod|iPad)/i) ? !0 : !1,
  is_iOS = navigator.platform.match(/(iPhone|iPod|iPad)/i) ? !0 : !1,
  is_Mac = navigator.platform.toUpperCase().indexOf("MAC") >= 0,
